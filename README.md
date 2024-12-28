@@ -24,3 +24,10 @@ https://us05web.zoom.us/j/82065246498?pwd=Fvhd73hTIiw7hGQjR1vlAWYBwzea5s.1
 17. OAuth: Authorization code flow with PKCE, как работает и почему именно так
 18. OAuth: Implicit flow, его недостатки, почему не используется
 19. OAuth: Device authorization flow, как работает и почему именно так
+
+### Бонусы
+Завалюк 151002 
+Барилко 151003
+Навтольский 151002
+Strukov Alexander
+Egor Rusakovich
