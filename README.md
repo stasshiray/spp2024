@@ -1,4 +1,4 @@
-Ссылка на Zoom для 20-09-2024
+__Обновленная ссылка на zoom__
 
 [https://us05web.zoom.us/j/82065246498?pwd=Fvhd73hTIiw7hGQjR1vlAWYBwzea5s.1](https://us06web.zoom.us/j/88323102404?pwd=eH5YXOlnNW6N4vX7lBbkVNBW8rYaFd.1)
 
