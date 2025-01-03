@@ -45,7 +45,7 @@ Egor Rusakovich
 04 сб \
 as is \
 151031 15:00 консультация \
-151003 16:00 экзамен
+151003 16:00 экзамен [заходные оценки, автомат от 8, на рекомендации не смотреть](https://docs.google.com/spreadsheets/d/1s2cKQwUGWZfP_Qo4fYCGr15v67OXdhe7otpNJJULZXw/edit?usp=sharing)
 
 06 пн \
 151031 перенос экзамена на 16:00
