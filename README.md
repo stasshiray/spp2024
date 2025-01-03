@@ -1,6 +1,5 @@
 __Обновленная ссылка на zoom__
-
-[https://us05web.zoom.us/j/82065246498?pwd=Fvhd73hTIiw7hGQjR1vlAWYBwzea5s.1](https://us06web.zoom.us/j/88323102404?pwd=eH5YXOlnNW6N4vX7lBbkVNBW8rYaFd.1)
+[https://us06web.zoom.us/j/81865721863?pwd=0GzBBQ9RIb06IeFlhngAeCXRvap1oz.1](https://us06web.zoom.us/j/81865721863?pwd=0GzBBQ9RIb06IeFlhngAeCXRvap1oz.1)
 
 # Все консультации будут в Zoom
 
