@@ -51,7 +51,7 @@ as is \
 151031 перенос экзамена на 16:00
 
 13 пн \
-151002 перенос консультации на 18:00
+151002 перенос консультации на 18:00 [заходные оценки, автомат от 8](https://docs.google.com/spreadsheets/d/10qSlpWWVND9yP1SLiDNygyiIew-nPHdG13_vlJ748RQ/edit?gid=0#gid=0)
 
 14 вт \
 as is \
