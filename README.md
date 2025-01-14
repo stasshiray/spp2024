@@ -59,7 +59,7 @@ as is \
 151002 18:00 экзамен
 
 15 ср \
-151004 перенос экзамена на 16:00
+151004 перенос экзамена на 16:00 [заходные оценки, автомат от 8](https://docs.google.com/spreadsheets/d/19y-jQc8_b-_LyYIPkOmCeuZCJhCZpC1ZUmV-jipOVkY/edit?usp=sharing)
 
 18 сб \
 as is \
