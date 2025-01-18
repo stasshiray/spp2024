@@ -63,7 +63,7 @@ as is \
 
 18 сб \
 as is \
-151001 14:00 консультация
+151001 14:00 консультация [автоматы от 8](https://1drv.ms/i/c/156610657a752fc8/EYEnEWR7YLZEuFi7GGJFPGQBNOvV8RQDE8SAz1kpYgXlLg)
 
 20 пн \
 151001 перенос экзамена на 16:00
